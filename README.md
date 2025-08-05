@@ -7,18 +7,19 @@
 Backend
 
 ## 🚀 Deployed App
-Frontend: *Not applicable*  
-Backend: Jupyter Notebook / Python Script 
-Database: Static CSV
+- Frontend: *Not applicable*  
+- Backend: Jupyter Notebook / Python Script
+- Database: Static CSV
 
 ## 📁 Directory Structure
-smart-text-classifier/  
-├─ data/
-│ ├─ spam.csv
-├─ notebooks/
-│ ├─ Smart Text Classifier.ipynb
-├─ visuals/
-├─ README.md     
+smart-text-classifier/                                                                                  
+├── data/                  
+│   ├── spam.csv  
+├── notebooks/             
+│   ├── Smart Text Classifier.ipynb                
+├── Visuals/                                  
+├── README.md                               
+  
 
 ## 🎥 Video Walkthrough of the project
 
@@ -66,8 +67,8 @@ Not applicable – this is a non-service-based analytical project
 
 ## 🛠 Technology Stack
 
-Python: Data analysis with Pandas
-MySQL: Data storage & extraction
-Matplotlib / Seaborn: Visualizations
-Jupyter Notebook: Code, commentary, and charts
-SQL: Joins, filters, aggregations for multi-table analysis
+- Python: Data analysis with Pandas
+- NumPy / Pandas — Data manipulation and preprocessing
+- Scikit-learn — Machine learning algorithms and model evaluation
+- Matplotlib / Seaborn — Data visualization and analysis
+- Jupyter Notebook: Code, commentary, and charts
